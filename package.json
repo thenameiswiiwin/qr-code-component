@@ -1,5 +1,6 @@
 {
   "name": "template-vite-react-tailwind-v3",
+  "homepage": "https://thenameiswiiwin.github.io/qr-code-component/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
